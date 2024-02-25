@@ -1,5 +1,4 @@
 import Container from "@/app/_components/container";
-import { EXAMPLE_PATH } from "@/lib/constants";
 import cn from "classnames";
 
 type Props = {
@@ -18,23 +17,17 @@ const Alert = ({ preview }: Props) => {
         <div className="py-2 text-center text-sm">
           {preview ? (
             <>
-              This page is a preview.{" "}
-              <a
-                href="/api/exit-preview"
-                className="underline hover:text-teal-300 duration-200 transition-colors"
-              >
-                Click here
-              </a>{" "}
-              to exit preview mode.
+              This page is a preview.
             </>
           ) : (
             <>
-              The source code for this blog is{" "}
+              This page is under construction. To see all future contents{" "}
               <a
-                href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                href="https://ellenschwartau.com/"
+                target="_blank"
                 className="underline hover:text-blue-600 duration-200 transition-colors"
               >
-                available on GitHub
+                visit the wordpress version of my blog
               </a>
               .
             </>
