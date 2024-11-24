@@ -7,23 +7,26 @@ import Alert from "./_components/alert";
 
 export default function Index() {
   const allPosts = getAllPosts();
-
-  const heroPost = allPosts[0];
-
   const morePosts = allPosts.slice(1);
 
+  const author = {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  };
+  const excerpt =
+    "I recently attended We Are Developers and took the opportunity to gather insights in the field of web security; An area where I definitely lack knowledge, even though I consider it our responsibility as developers to build secure applications. 🔐 I decided to delve deeper into the topic; here's what I learned today.";
   return (
     <main>
       <Container>
         <Alert />
         <Intro />
         <HeroPost
-          title={heroPost.title}
-          coverImage={heroPost.coverImage}
-          date={heroPost.date}
-          author={heroPost.author}
-          slug={heroPost.slug}
-          excerpt={heroPost.excerpt}
+          title="First Thoughts on Web Security"
+          coverImage="/assets/blog/web-security/web-security-talk.JPG"
+          date="2023-08-18"
+          author={author}
+          slug="web-security/first-thoughts"
+          excerpt={excerpt}
         />
         {morePosts.length > 0 && <MoreStories posts={morePosts} />}
       </Container>

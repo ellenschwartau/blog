@@ -23,15 +23,15 @@ export function PostPreview({
 }: Props) {
   return (
     <div>
-      { coverImage &&
-      <div className="mb-5">
-        <CoverImage slug={slug} title={title} src={coverImage} />
-      </div>
-      }
+      {coverImage && (
+        <div className="mb-5">
+          <CoverImage slug={slug} title={title} src={coverImage} />
+        </div>
+      )}
       <h3 className="text-3xl mb-3 leading-snug">
         <Link
-          as={`/posts/${slug}`}
-          href="/posts/[slug]"
+          as={`/blog/${slug}`}
+          href="/blog/[slug]"
           className="hover:underline"
         >
           {title}
@@ -40,9 +40,9 @@ export function PostPreview({
       <div className="text-lg mb-4">
         <DateFormatter dateString={date} />
       </div>
-      { !coverImage && excerpt &&
+      {!coverImage && excerpt && (
         <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-      }
+      )}
       <Avatar name={author.name} picture={author.picture} />
     </div>
   );
