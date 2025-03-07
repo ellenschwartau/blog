@@ -1,14 +1,14 @@
 import Container from "@/app/_components/container";
 
 const footerLinks = [
-  { src: 'https://github.com/ellenschwartau/blog', name: 'View on GitHub' },
-  { src: '/about', name: 'About' },
-  { src: '/imprint', name: 'Impressum' },
-  { src: '/', name: 'Posts' },
-  { src: '/mentoring', name: 'Mentoring' },
-  { src: '/public-speaking', name: 'Speaker CV' },
+  { src: "https://github.com/ellenschwartau/blog", name: "View on GitHub" },
+  { src: "/about", name: "About" },
+  { src: "/imprint", name: "Impressum" },
+  { src: "/", name: "Posts" },
+  { src: "/mentoring", name: "Mentoring" },
+  { src: "/public-speaking", name: "Speaker CV" },
   //{ src: '/thank-you', name: 'Thank you' },
-]
+];
 
 export function Footer() {
   return (
@@ -19,16 +19,17 @@ export function Footer() {
             Have a nice day.
           </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
-           {  
-            footerLinks.map(({ src, name }) => {
-              return <a
-                href={src}
-                className="mx-3 font-bold hover:underline"
-              >
-                { name }
-              </a>
-            })
-           }
+            {footerLinks.map(({ src, name }) => {
+              return (
+                <a
+                  key={name}
+                  href={src}
+                  className="mx-3 font-bold hover:underline"
+                >
+                  {name}
+                </a>
+              );
+            })}
           </div>
         </div>
       </Container>
