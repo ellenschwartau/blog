@@ -1,5 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
 
+export const metadata: PostMetaData = {
+  url: "posts/meetups/gitops",
+  title: "Tech x Orbit Meetup #0010: The Why and How of GitOps",
+  date: "2023-05-15",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["GitOps", "Meetup"],
+  excerpt:
+    "Another week, another meetup! Joblift came to visit and talked about the Why and How of GitOps. Their platform includes over 100 microservices and comes with hugely interesting challenges!",
+};
 export default function Post() {
   return (
     <article className="max-w-4xl mx-auto px-4 py-8">

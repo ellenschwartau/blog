@@ -1,4 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/foo-bar",
+  title: "Foo Bar",
+  date: "2022-08-17",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["Foo Bar"],
+  excerpt:
+    "One thing I stumbled upon in my first job as a working student was the term foo bar. My mentor back then told me it was a fantasy word used as input value without meaning. Just recently I found out that wasn't true.",
+};
 
 export default function Post() {
   return (

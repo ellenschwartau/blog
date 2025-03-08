@@ -1,4 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/women-in-tech/ada-lovelace",
+  title: "Ada Lovelace: The First Computer Programmer",
+  date: "2023-10-10",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["Women in Tech", "History", "Programming"],
+  excerpt:
+    "Exploring the legacy of Ada Lovelace, often considered the world's first computer programmer, and her contributions to computer science.",
+};
 
 export default function Post() {
   return (

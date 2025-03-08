@@ -1,16 +1,28 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/ai/hyped-and-dreaded",
+  title: "AI; Hyped and dreaded",
+  date: "2023-04-16",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["AI", "Technology"],
+  excerpt:
+    "Is GPT-4 intelligent? According to Sebastien Bubeck the answer highly depends on your definition of intelligence. Just watched his talk where he shows if GPT-4 is intelligent according to his definition.",
+};
 
 export default function Post() {
   return (
     <article className="max-w-4xl mx-auto px-4 py-8">
       <PostHeader
-        title="AI; Hyped and dreaded"
-        publishedAt="2023-04-16"
-        excerpt="Is GPT-4 intelligent? According to Sebastien Bubeck the answer highly depends on your definition of intelligence. Just watched his talk where he shows if GPT-4 is intelligent according to his definition."
-        author={{
-          name: "Ellen Schwartau",
-          picture: "/assets/blog/authors/ellen.png",
-        }}
+        title={metadata.title}
+        publishedAt={metadata.date}
+        excerpt={metadata.excerpt}
+        author={metadata.author}
       />
 
       <div className="prose prose-lg max-w-none">

@@ -1,4 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/mentoring/mentor-successfully",
+  title: "Keys to Successful Technical Mentoring",
+  date: "2023-09-20",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["Mentoring", "Leadership", "Career Development"],
+  excerpt:
+    "Essential tips and strategies for being an effective technical mentor. How to guide and support others while fostering their growth in the tech industry.",
+};
 
 export default function Post() {
   return (

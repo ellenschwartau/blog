@@ -1,4 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/architecture/microservices",
+  title: "Understanding Microservices Architecture",
+  date: "2023-11-05",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["Architecture", "Microservices", "System Design"],
+  excerpt:
+    "Deep dive into microservices architecture: benefits, challenges, and best practices for implementing microservices in your organization.",
+};
 
 export default function Post() {
   return (

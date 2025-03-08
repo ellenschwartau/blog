@@ -1,4 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/community/wda/week-3",
+  title: "We Are Developers Academy: Week 3 - Building Momentum",
+  date: "2023-11-22",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["Community", "Education", "WDA"],
+  excerpt:
+    "Third week at WDA showcases our growing capabilities. Working on complex projects and learning to tackle real-world development challenges.",
+};
 
 export default function Post() {
   return (

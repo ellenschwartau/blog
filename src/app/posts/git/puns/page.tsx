@@ -1,4 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/git/puns",
+  title: "Git Puns: Because Why Not?",
+  date: "2023-09-01",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["Git", "Fun", "Developer Life"],
+  excerpt:
+    "A collection of the best (or worst?) Git-related puns and jokes. Because sometimes we all need a little humor in our version control.",
+};
 
 export default function Post() {
   return (

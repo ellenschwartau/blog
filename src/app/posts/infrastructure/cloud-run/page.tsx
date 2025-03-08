@@ -1,4 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/infrastructure/cloud-run",
+  title: "Getting Started with Google Cloud Run",
+  date: "2023-11-01",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["Infrastructure", "Cloud", "Google Cloud"],
+  excerpt:
+    "A practical guide to deploying applications on Google Cloud Run. Learn how to leverage serverless containers for your applications.",
+};
 
 export default function Post() {
   return (

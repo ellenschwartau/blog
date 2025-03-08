@@ -1,4 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/general/negortiation-tipps",
+  title: "Effective Negotiation Tips for Developers",
+  date: "2023-10-25",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["Career", "Professional Development", "Negotiation"],
+  excerpt:
+    "Essential negotiation strategies and tips for software developers. How to effectively communicate your value and achieve better outcomes in professional discussions.",
+};
 
 export default function Post() {
   return (

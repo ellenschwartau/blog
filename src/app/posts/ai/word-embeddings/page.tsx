@@ -1,4 +1,20 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/ai/word-embeddings",
+  title:
+    "Code.Talks 2019: Using the Amazing World of Embeddings for Recommendations",
+  date: "2019-10-19",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["AI", "Machine Learning", "Word Embeddings"],
+  excerpt:
+    "Machine Learning, Neural Networks, Word2Vec, Doc2Vec... You know some of these words? Congratulations! You don't? Neither did I when we started experimenting with such technologies at Joblift. This was the first step of our journey towards creating a career advisor that offers personalized jobs based on how you act on our website.",
+};
 
 export default function Post() {
   return (

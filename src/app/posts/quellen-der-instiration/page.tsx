@@ -1,4 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/quellen-der-instiration",
+  title: "Quellen der Inspiration",
+  date: "2023-10-01",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "de",
+  tags: ["Inspiration", "Ressourcen", "Lernen"],
+  excerpt:
+    "Eine Sammlung wertvoller Ressourcen und Inspirationsquellen für Entwickler. Von Blogs über Podcasts bis hin zu Tech-Talks - hier findest du alles, was dich weiterbringt.",
+};
 
 export default function Post() {
   return (

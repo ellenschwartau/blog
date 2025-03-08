@@ -1,4 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/women-in-tech/amazing-grace",
+  title: "Grace Hopper: The Queen of Software",
+  date: "2023-11-15",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["Women in Tech", "History", "Programming"],
+  excerpt:
+    "Discovering the revolutionary contributions of Grace Hopper to computer science, including the development of COBOL and her famous debugging story.",
+};
 
 export default function Post() {
   return (

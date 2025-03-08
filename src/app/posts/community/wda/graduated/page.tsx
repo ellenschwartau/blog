@@ -1,4 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/community/wda/graduated",
+  title: "We Are Developers Academy - Graduation",
+  date: "2023-12-01",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["Community", "Education", "WDA"],
+  excerpt:
+    "Final thoughts and reflections on my journey through the We Are Developers Academy program. What I've learned and how it has shaped my development journey.",
+};
 
 export default function Post() {
   return (

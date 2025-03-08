@@ -1,4 +1,4 @@
-import { Post, Page } from "@/types/post";
+import { PageMetaData, PostMetaData } from "@/types/post";
 import fs from "fs";
 import matter from "gray-matter";
 import { join } from "path";
@@ -11,12 +11,11 @@ export function getFileNames(directory: string) {
 }
 
 export function getPageBySlug(slug: string) {
-  return getBySlug<Page>(slug, pagesDirectory);
+  return getBySlug<PageMetaData>(slug, pagesDirectory);
 }
 
-
-export function getPostBySlug(slug: string): Post {
-  return getBySlug<Post>(slug, postsDirectory);
+export function getPostBySlug(slug: string): PostMetaData {
+  return getBySlug<PostMetaData>(slug, postsDirectory);
 }
 
 function getBySlug<T>(slug: string, directory: string): T {
@@ -28,13 +27,13 @@ function getBySlug<T>(slug: string, directory: string): T {
   return { ...data, slug: realSlug, content } as T;
 }
 
-export function getAllPosts(): Post[] {
+export function getAllPosts(): PostMetaData[] {
   const slugs = getFileNames(postsDirectory);
   return (slugs || [])
     .map((slug) => getPostBySlug(slug))
     .sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
 }
-export function getAllPages(): Page[] {
+export function getAllPages(): PageMetaData[] {
   const slugs = getFileNames(pagesDirectory);
   return (slugs || [])
     .map((slug) => getPageBySlug(slug))

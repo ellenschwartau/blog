@@ -1,4 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/devops/gitops/what-is",
+  title: "What is GitOps?",
+  date: "2023-09-15",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["DevOps", "GitOps", "Infrastructure"],
+  excerpt:
+    "An introduction to GitOps principles and practices. Understanding how GitOps can improve your deployment workflow and infrastructure management.",
+};
 
 export default function Post() {
   return (

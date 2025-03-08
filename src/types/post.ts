@@ -1,6 +1,6 @@
 import { type Author } from "./author";
 
-export type Page = {
+export type PageMetaData = {
   slug: string;
   title: string;
   coverImage?: string;
@@ -8,13 +8,12 @@ export type Page = {
   content: string;
 };
 
-export type Post = Page & {
+export type PostMetaData = {
   date: string;
   author: Author;
   excerpt: string;
-  url?: string; // TODO make mandatory once all were migrated
-  ogImage?: {
-    url: string;
-  };
-  preview?: boolean;
+  url: string;
+  tags: string[];
+  language: string;
+  title: string;
 };

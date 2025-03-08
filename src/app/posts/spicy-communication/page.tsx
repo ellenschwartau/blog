@@ -1,4 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/spicy-communication",
+  title: "Spicy Communication in Tech Teams",
+  date: "2023-11-30",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["Communication", "Team Work", "Soft Skills"],
+  excerpt:
+    "Handling challenging conversations and conflicts in tech teams. Strategies for effective communication when things get heated.",
+};
 
 export default function Post() {
   return (

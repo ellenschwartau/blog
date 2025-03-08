@@ -1,4 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/clean-code/reasonable-refactorings",
+  title: "Reasonable Refactorings: Making Code Better Step by Step",
+  date: "2023-10-20",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["Clean Code", "Refactoring", "Software Development"],
+  excerpt:
+    "Practical approaches to improving code quality through reasonable refactoring steps. Learn how to make your code more maintainable without breaking things.",
+};
 
 export default function Post() {
   return (

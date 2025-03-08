@@ -1,4 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/joblift/meet-the-team",
+  title: "Meet the Joblift Engineering Team",
+  date: "2023-08-30",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["Joblift", "Team", "Company Culture"],
+  excerpt:
+    "An inside look at the Joblift engineering team. Meet the people behind the code and learn about our culture, values, and how we work together.",
+};
 
 export default function Post() {
   return (

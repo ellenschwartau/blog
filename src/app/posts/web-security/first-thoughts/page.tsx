@@ -1,5 +1,20 @@
 import { Citation } from "@/app/_components/citation";
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/web-security/first-thoughts",
+  title: "First Thoughts on Web Security",
+  date: "2023-08-18",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["Security", "Web Development"],
+  excerpt:
+    "I recently attended We Are Developers and took the opportunity to gather insights in the field of web security; An area where I definitely lack knowledge, even though I consider it our responsibility as developers to build secure applications.",
+};
 
 export default function Post() {
   return (

@@ -1,4 +1,19 @@
 import { PostHeader } from "@/app/_components/post-header";
+import { PostMetaData } from "@/types/post";
+
+export const metadata: PostMetaData = {
+  url: "posts/women-in-tech/the-good",
+  title: "The Good Side of Women in Tech",
+  date: "2023-12-01",
+  author: {
+    name: "Ellen Schwartau",
+    picture: "/assets/blog/authors/ellen.png",
+  },
+  language: "en",
+  tags: ["Women in Tech", "Diversity", "Success Stories"],
+  excerpt:
+    "Celebrating the positive changes and success stories of women in the tech industry. Highlighting achievements and progress in creating a more inclusive tech world.",
+};
 
 export default function Post() {
   return (
