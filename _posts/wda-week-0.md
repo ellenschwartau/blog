@@ -1,9 +1,9 @@
 ---
 title: "Women Developer Academy: Ein Erfahrungsbericht - Woche 0"
 date: "2022-02-05"
-categories: 
+categories:
   - "women-in-tech"
-tags: 
+tags:
   - "google"
   - "it"
   - "learn"
@@ -11,6 +11,7 @@ tags:
 author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
+url: "/posts/community/wda/week-0"
 ---
 
 Durch einen Tip bin ich auf die **[Women Developer Academy Europe](https://events.withgoogle.com/women-developer-academy-europe/)** aufmerksam geworden. Virtuell und von Google. Das Programm ist kostenlos, aber die Teilnehmeranzahl begrenzt. Die Voraussetzungen für die Teilnahme erfüllte ich und meine Antwort auf die Frage, warum ich am Programm teilnehmen sollte, hat anscheinend ins Schwarze getroffen: Ich habe einen Platz ergattern können! Hier erzähle ich im Tagebuchstil von meiner Erfahrung.

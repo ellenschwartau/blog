@@ -1,13 +1,14 @@
 ---
 title: "Die Vorteile einer Frau in der IT"
 date: "2021-03-05"
-categories: 
+categories:
   - "diversity"
   - "women-in-tech"
 author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
 excerpt: "Die Nachteile, denen Frauen im Arbeitsalltag begegnen, sind zahlreich und eben nicht rein biologischer Natur, wie der zeitliche Ausfall während und nach der Schwangerschaft. Auch wenn die IT ein recht aufgeschlossener Bereich ist und negative Aspekte dort weniger präsent sind, bilden sie leider dennoch oftmals die Regel. Das muss nicht sein. Heute wollen wir uns zur Abwechslung jedoch mit den Vorteilen beschäftigen, denn die gibt es ebenso!"
+url: "/posts/women-in-tech/the-good-DE"
 ---
 
 _Dieser Post wurde ursprünglich als [Techsnack auf dem Orbit Technology Blog](https://techsnack.orbitdigital.de/posts/the-good-parts-of-being-a-woman-in-tech) verfasst._ _[Hier geht's zur englischen Version](https://ellenschwartau.wordpress.com/2021/02/19/the-good-parts-of-being-a-woman-in-tech/)._
@@ -62,7 +63,7 @@ Zur Übersicht das Wichtigste zusammengefasst:
 - Als “Orchidee unter den Blumen” bleibt man (bzw. Frau) hängen, die Hürden für Einladungen zum Gespräch sind geringer und Job-Angebote eher die Regel als die Ausnahme
 - Konferenzen können meist vergünstigt besucht werden und auch Slots für Talks sind einfacher zu ergattern
 - Dein Geschlecht stellt dir Verbündete zur Seite:  
-    Das Gefühl der Zusammengehörigkeit schweißt zusammen und gegenseitige Hilfe sowie Unterstützung kommen dir zugute
+   Das Gefühl der Zusammengehörigkeit schweißt zusammen und gegenseitige Hilfe sowie Unterstützung kommen dir zugute
 - Wir können Dinge bewegen, weil es viel zu bewegen gibt – bereits kleine Änderungen können die Welt sehr viel besser machen
 - Das Umfeld ist ein gutes Training für Kampfgeist, Schlagfertigkeit und den Mut, Herausforderungen anzugehen
 

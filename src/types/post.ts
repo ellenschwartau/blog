@@ -1,6 +1,5 @@
 import { type Author } from "./author";
 
-
 export type Page = {
   slug: string;
   title: string;
@@ -9,11 +8,11 @@ export type Page = {
   content: string;
 };
 
-
 export type Post = Page & {
   date: string;
   author: Author;
   excerpt: string;
+  url?: string; // TODO make mandatory once all were migrated
   ogImage?: {
     url: string;
   };

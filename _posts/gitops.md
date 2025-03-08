@@ -1,10 +1,10 @@
 ---
 title: "Tech x Orbit Meetup #0010: The Why and How of GitOps"
 date: "2023-05-15"
-categories: 
+categories:
   - "infrastructure-as-code"
   - "software-development"
-tags: 
+tags:
   - "coding"
   - "gitops"
   - "it"
@@ -13,6 +13,7 @@ author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
 excerpt: "Another week, another meetup! Joblift came to visit and talked about the Why and How of GitOps. Their platform includes over 100 microservices and comes with hugely interesting challenges!"
+url: "/posts/meetups/gitops"
 ---
 
 For the second event of our meetup Joblift joined us, talking about how and why they use GitOps. The platform of the Hamburg-based start-up offers extensive features to help users find a (new) job in the manner of a job coach. This includes over 100 microservices with various technologies and a vast amount of job data in the import.
@@ -22,7 +23,7 @@ For the second event of our meetup Joblift joined us, talking about how and why 
 ## Takeaway: GitOps Principles
 
 > _OpenGitOps is a set of open-source standards, best practices, and community-focused education to help organizations adopt a structured, standardized approach to implementing GitOps._
-> 
+>
 > https://opengitops.dev/
 
 **Declarative**: A [system](https://github.com/open-gitops/documents/blob/v1.0.0/GLOSSARY.md#software-system) managed by GitOps must have its desired state expressed [declaratively](https://github.com/open-gitops/documents/blob/v1.0.0/GLOSSARY.md#declarative-description).  

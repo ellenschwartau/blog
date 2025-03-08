@@ -1,7 +1,7 @@
 ---
 title: "My Daily Git"
 date: "2022-12-03"
-categories: 
+categories:
   - "coding"
   - "git"
   - "programming"
@@ -10,6 +10,7 @@ author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
 excerpt: "The git history is a key for reconstructing the evolution of your code. Treating it with caution saves time. This is my cheat sheet for keeping it clean."
+url: "/posts/git/my-daily-git"
 ---
 
 A teachers blackboard, an interpreters dictionary, or a financial advisors calculator. That's what **git** is for software engineers. It makes our life easier, not (only) because of [the pun of words I occasionally stumble upon,](https://ellenschwartau.com/2022/01/28/accidental-pun-of-words-git/) but due to its necessity and mightiness. Far from being a git expert, this is how I use git.
@@ -17,8 +18,8 @@ A teachers blackboard, an interpreters dictionary, or a financial advisors calcu
 1. [The Basics](https://ellenschwartau.com/2022/12/03/my-daily-git/#the-basics)
 2. [Merge is dead, long live rebase](https://ellenschwartau.com/2022/12/03/my-daily-git/#merge-is-dead-long-live-rebase)
 3. [The icing on the cake](https://ellenschwartau.com/2022/12/03/my-daily-git/#the-icing-on-the-cake)
-    1. [Squash it](https://ellenschwartau.com/2022/12/03/my-daily-git/#squash-it)
-    2. [Edit prior commits](https://ellenschwartau.com/2022/12/03/my-daily-git/#edit-prior-commits)
+   1. [Squash it](https://ellenschwartau.com/2022/12/03/my-daily-git/#squash-it)
+   2. [Edit prior commits](https://ellenschwartau.com/2022/12/03/my-daily-git/#edit-prior-commits)
 4. [The Cheat Sheet](https://ellenschwartau.com/2022/12/03/my-daily-git/#the-cheat-sheet)
 
 ## The Basics
@@ -26,7 +27,7 @@ A teachers blackboard, an interpreters dictionary, or a financial advisors calcu
 Git is a free and open source version controls system, allowing you to manage your code changes in a so called repository. It allows you keeping track of the history of your code and helps working together on the same code base.
 
 > What's Git?
-> 
+>
 > **Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.**
 
 I don't want to talk about why to use branches and how to name commits. In short I prefer working with [short-lived feature branches](https://trunkbaseddevelopment.com/short-lived-feature-branches/) and follow the rules of [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/). This an example explaining the what, how and why of a change:
@@ -90,7 +91,7 @@ This command only runs, if your branch is updated to the current master. In real
 # no fast forward
 
     *---*    your branch
-   /      
+   /
 -*---A---B  master
 ```
 
@@ -118,7 +119,7 @@ commit c8ceddfe081c8d91ed7dde8111e175982bf2898a (HEAD -> kp-344, origin/kp-344)
 commit c2f4d70d01ecddf995af2f85d0aa0d55f6086d02
     WIP
 
-commit ed79cc8084d3889ec0318ec7a6f412ed89ff4d8f 
+commit ed79cc8084d3889ec0318ec7a6f412ed89ff4d8f
     feat(ticket-123): Add pagination to search result page
 
 commit b85b2c5cdc20cbaa2df56a89ceeef97040f39ecf (origin/master, origin/HEAD, master)

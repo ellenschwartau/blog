@@ -2,10 +2,10 @@
 title: "First Thoughts on Web Security"
 date: "2023-08-18"
 
-categories: 
+categories:
   - "learning"
   - "software-development"
-tags: 
+tags:
   - "it"
   - "learn"
   - "web-security"
@@ -14,6 +14,7 @@ author:
   picture: "/assets/blog/authors/ellen.png"
 excerpt: "I recently attended We Are Developers and took the opportunity to gather insights in the field of web security; An area where I definitely lack knowledge, even though I consider it our responsibility as developers to build secure applications. 🔐 I decided to delve deeper into the topic; here's what I learned today."
 coverImage: "/assets/blog/web-security/web-security-talk.JPG"
+url: "/posts/web-security/first-thoughts"
 ---
 
 I recently attended We Are Developers and took the opportunity to gather insights in the field of web security; An area where I definitely lack knowledge, even though I consider it our responsibility as developers to build secure applications. 🔐 I decided to delve deeper into the topic; here's what I learned today.
@@ -26,7 +27,7 @@ I recently attended We Are Developers and took the opportunity to gather insight
 The first thing that caught my attention was the **O**pen **W**eb **A**pplication **S**ecurity **P**roject, which aims to improve software security. This amongst others includes the [top 10 list of web security risks](https://owasp.org/Top10/) and a [web security testing guide](https://owasp.org/www-project-web-security-testing-guide/).
 
 > **The OWASP® Foundation** works to improve the security of software through its community-led open source software projects, hundreds of chapters worldwide, tens of thousands of members, and by hosting local and global conferences.
-> 
+>
 > owasp.org
 
 ### OWASP Top 10
@@ -35,19 +36,17 @@ The first thing that caught my attention was the **O**pen **W**eb **A**pplicatio
 
 <figure>
 
-| **Apps Tested** | **CWE** | Vulnerable Apps | **Report Year** | **Contributor Name** | **Contributor Contact Email** | **Type of Testing** | **Primary Language** | **Region** | **Industry** | **Retest** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 27 | 20 | 3 | 2018 | Jane Doe | ... | TaH | PHP | Global | Non-Technology | No |
-| 66 | 125 | 2 | 2020 | Jane Doe | ... | Tooling | C | North America | Technology | No |
-| 42 | 284 | 7 | 2020 | Jane Doe | ... | HaT | .NET | Europe | Retail | No |
+| **Apps Tested** | **CWE** | Vulnerable Apps | **Report Year** | **Contributor Name** | **Contributor Contact Email** | **Type of Testing** | **Primary Language** | **Region**    | **Industry**   | **Retest** |
+| --------------- | ------- | --------------- | --------------- | -------------------- | ----------------------------- | ------------------- | -------------------- | ------------- | -------------- | ---------- |
+| 27              | 20      | 3               | 2018            | Jane Doe             | ...                           | TaH                 | PHP                  | Global        | Non-Technology | No         |
+| 66              | 125     | 2               | 2020            | Jane Doe             | ...                           | Tooling             | C                    | North America | Technology     | No         |
+| 42              | 284     | 7               | 2020            | Jane Doe             | ...                           | HaT                 | .NET                 | Europe        | Retail         | No         |
 
 <figcaption>
 
 [Made up data based on the sample data submission files in the OWASP Top 10 Github repo](https://github.com/OWASP/Top10/tree/master/2021/Data)
 
 </figcaption>
-
-
 
 </figure>
 

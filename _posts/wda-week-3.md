@@ -1,9 +1,9 @@
 ---
 title: "Women Developer Academy - Woche 3"
 date: "2022-02-26"
-categories: 
+categories:
   - "women-in-tech"
-tags: 
+tags:
   - "google"
   - "it"
   - "learn"
@@ -14,6 +14,7 @@ author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
 excerpt: "Die Wochen des Inputs sind vorbei. Nächste Woche gilt es das Gelernte in einer Live Speaking Practice unter Beweis zu stellen. Hier sind die Take Aways aus Woche drei."
+url: "/posts/community/wda/week-3"
 ---
 
 Die Wochen des Inputs sind vorbei. Nächste Woche gilt es das Gelernte in einer Live Speaking Practice unter Beweis zu stellen.
@@ -47,11 +48,11 @@ _"Being an important and influential part of the developer ecosystem doesn't sto
 #### Meine Take Aways
 
 - **Research Efficiently**  
-    Recherchiere, aber ohne ins Rabithole abzusteigen. Nutze externe Links, um Fakten aus deinem Vortrag zu unterstreichen.
+   Recherchiere, aber ohne ins Rabithole abzusteigen. Nutze externe Links, um Fakten aus deinem Vortrag zu unterstreichen.
 - **Create a table of content  
-    **Hier geht's nicht um eine Folie mit Inhaltsverzeichnis, sondern es handelt sich um eine Methode, um deinen Inhalt zu strukturieren: Erstelle z.B. erstmal Überschriften zu den Themenbereichen, die abgedeckt werden sollen. Die Folien oder Paragraphen kannst du anschließen frei verschieben, um einen roten Faden in deinen Vortrag zu bringen.
+   **Hier geht's nicht um eine Folie mit Inhaltsverzeichnis, sondern es handelt sich um eine Methode, um deinen Inhalt zu strukturieren: Erstelle z.B. erstmal Überschriften zu den Themenbereichen, die abgedeckt werden sollen. Die Folien oder Paragraphen kannst du anschließen frei verschieben, um einen roten Faden in deinen Vortrag zu bringen.
 - **Edit after writing**  
-    Der Feinschliff kann später erfolgen. Wenn du im Fluss bist, solltest du vor allem eines tun: Schreiben. Die Eloquenz kannst du auch später in die Sätze treiben.
+   Der Feinschliff kann später erfolgen. Wenn du im Fluss bist, solltest du vor allem eines tun: Schreiben. Die Eloquenz kannst du auch später in die Sätze treiben.
 
 ##### Donnerstag, 24.02.2022
 
@@ -71,7 +72,7 @@ _"Learn how to find your uniqueness to highlight in your speaker bio and CV."_
 
 Das Thema meiner Präsentation steht: **"Reasonable Refactorings"**. Ich habe mir selbst eine Challenge gestellt: Die grobe Präsentation ohne Googel befüllen. Mal sehen, welche Learnings mir zu dem Thema als erstes in den Sinn kommen.
 
-* * *
+---
 
 ## Links
 

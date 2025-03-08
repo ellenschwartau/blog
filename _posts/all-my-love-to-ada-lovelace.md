@@ -1,12 +1,13 @@
 ---
 title: "All my ❤️ to Ada Lovelace"
 date: "2021-05-13"
-categories: 
+categories:
   - "diversity"
   - "women-in-tech"
 author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
+url: "/posts/women-in-tech/ada-lovelace"
 ---
 
 _Verfasst als [Techsnack des Orbit Technology Blogs](https://techsnack.orbitdigital.de/posts/love-to-ada-locelace)_
@@ -29,7 +30,6 @@ Sie führt die Liste der bekannten Frauen aus dem Bereich Tech an. Ihre Kleidung
 
 ![](https://lh4.googleusercontent.com/vnCE6d7bTpctdkWPTYlvgC8eIr4OVOoRnteaYNRIaKJ8bXRXS3nLHxtrLJhUGjAf3FDM9oR4YG-9Q8EkTD6gftDK7ngNNKkBrmUlvUosaOc1X7D5UWkE-i3MKlnitOjIdn0hnjbJ)
 
-  
 Doch fangen wir vorne an: Entscheidend für Adas Entwicklung war die Beziehung ihrer Eltern Lady und Lord Byron. Letzterer könnte im heutigen Charlie Sheen wiedergeboren sein, denn den romantischen Poet begleitete vor allem eine Vorliebe für Alkohol und Frauen. Nicht ganz verwunderlich also, dass Annabella sich kurz nach Adas Geburt von ihm trennte und fortan alles dafür tat, ihre Tochter von den Fußstapfen des Vaters fernzuhalten.
 
 ![](https://lh3.googleusercontent.com/IqPpD97BrU0SRIMrAdfeXbHasvTv0JwkzTxj4mK9tUqQ0BvV6N1edASJdIIThuozRmJvJDUx-MMnkBrBmLrkMXGD6Pb8Mazktt_YewMxg_sbgYuTb55bvNjEuR91H0h8Olc6u2nL)
@@ -54,7 +54,7 @@ De Morgan
 
 Obigen Satz verfasste dieser tatsächlich in einem Brief an Adas Mutter. Deine Regeln aus der booleschen Algebra in allen Ehren, but: You knew nothing, De Morgan. Allen Anfeindungen zum Trotz hat Ada es geschafft wenigstens heute Anerkennung für ihre Errungenschaften zu erlangen.
 
-Credits für Adas Erfolg gelten nicht nur ihr selbst und ihrer Mutter, sondern zudem einem weiteren Protagonisten: 1833 wurde Ada offiziell in die Gesellschaft eingeführt und begegnet auf ihrem Debütantinnenball dem knapp ein Vierteljahrhundert älteren Charles Babbage. Hier beginnt nicht die Heirat mit drei Kindern, sondern zwei geistige Austauschpartner treffen aufeinander. Babbage hatte sich, neben Mathematik und Philosophie, auch dem Erfindertum verschrieben und arbeitete zu diesem Zeitpunkt an einer Rechenmaschine. Folgender Fun Fact setzt Adas Genie in Relation zur damaligen Zeit: Die geschätzte Rechenzeit einer 20-stelligen Multiplikation betrug drei Minuten. Gebaut wurde das Gerät jedoch aus einem anderen Grund nie, denn obgleich deren finanzielle Förderung genehmigt war, überwarf sich Babbage mit der Regierung. Wen kümmert schon eine Summe die zwei Kriegsschiffe finanziert, wenn stattdessen ein Streit in greifbarer Nähe liegt… [_Nun ja, so sehen Nachbauten des Geräts heute aus_](https://de.wikipedia.org/wiki/Analytical_Engine#/media/Datei:Babbages_Analytical_Engine,_1834-1871._(9660574685).jpg).
+Credits für Adas Erfolg gelten nicht nur ihr selbst und ihrer Mutter, sondern zudem einem weiteren Protagonisten: 1833 wurde Ada offiziell in die Gesellschaft eingeführt und begegnet auf ihrem Debütantinnenball dem knapp ein Vierteljahrhundert älteren Charles Babbage. Hier beginnt nicht die Heirat mit drei Kindern, sondern zwei geistige Austauschpartner treffen aufeinander. Babbage hatte sich, neben Mathematik und Philosophie, auch dem Erfindertum verschrieben und arbeitete zu diesem Zeitpunkt an einer Rechenmaschine. Folgender Fun Fact setzt Adas Genie in Relation zur damaligen Zeit: Die geschätzte Rechenzeit einer 20-stelligen Multiplikation betrug drei Minuten. Gebaut wurde das Gerät jedoch aus einem anderen Grund nie, denn obgleich deren finanzielle Förderung genehmigt war, überwarf sich Babbage mit der Regierung. Wen kümmert schon eine Summe die zwei Kriegsschiffe finanziert, wenn stattdessen ein Streit in greifbarer Nähe liegt… [_Nun ja, so sehen Nachbauten des Geräts heute aus_](<https://de.wikipedia.org/wiki/Analytical_Engine#/media/Datei:Babbages_Analytical_Engine,_1834-1871._(9660574685).jpg>).
 
 Die fehlende Realisierung der Maschine tat dem, was Ada vollbringt, keinen Abbruch. Sie übersetzt die Mitschrift einer Vorlesungsstunde, die Babbage zur Analytical Engine gibt, aus dem Französischen und, noch weit wichtiger, ergänzt diese: In den Anhängen versteckt sich [Programmcode, der die Bernoulli-Folge berechnet](https://upload.wikimedia.org/wikipedia/commons/c/cf/Diagram_for_the_computation_of_Bernoulli_numbers.jpg). Später unter dem Titel des ersten Computerprogramms der Welt bekannt.
 
@@ -68,7 +68,7 @@ Was auf den ersten Blick aussieht wie eine wilde Tabelle, beinhaltet nämlich di
 
 Hitzig debattiert wurde natürlich, ob sie angesichts ihres Geschlechts überhaupt die Verfasserin des Schriftstücks war. Recht polemisch, [_da zu dieser Zeit vor allem Frauen den Beruf des Programmierens ausübten_](https://www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html). But well, ich schweife ab...
 
-Ihr vorausschauendes Genie beweist Ada nicht nur mit den noch heute überdauernden Grundblöcken des Codings. Zuletzt genannte verwendet sie wohlgemerkt, bevor es überhaupt die Idee eines programmierbaren Computers gibt. Die ersten Großrechner werden beispielsweise erst ein Jahrhundert später gebaut. Ein weiteres Beispiel für ihren Schöpfergeist bildet folgende Aussage: Die Rechenmaschine sei nicht nur dazu in der Lage Nummern, sondern beliebige Symbole zu verarbeiten. In dieser Aussage versteckt sich vieles, aber auch die Grundsätze eines Algorithmus: Input → Verarbeitung → Output. Weiter hält sie es für möglich, dass Maschinen irgendwann sogar Musik komponieren könnten. Und siehe da, heute kreieren AI Algorithmen Musik, aber erst seit vergleichsweise Kurzem! 
+Ihr vorausschauendes Genie beweist Ada nicht nur mit den noch heute überdauernden Grundblöcken des Codings. Zuletzt genannte verwendet sie wohlgemerkt, bevor es überhaupt die Idee eines programmierbaren Computers gibt. Die ersten Großrechner werden beispielsweise erst ein Jahrhundert später gebaut. Ein weiteres Beispiel für ihren Schöpfergeist bildet folgende Aussage: Die Rechenmaschine sei nicht nur dazu in der Lage Nummern, sondern beliebige Symbole zu verarbeiten. In dieser Aussage versteckt sich vieles, aber auch die Grundsätze eines Algorithmus: Input → Verarbeitung → Output. Weiter hält sie es für möglich, dass Maschinen irgendwann sogar Musik komponieren könnten. Und siehe da, heute kreieren AI Algorithmen Musik, aber erst seit vergleichsweise Kurzem!
 
 Noch weit beeindruckender, als die gegenwärtigen und zukünftigen Möglichkeiten von Maschinen, finde ich Adas Gedankengang über die Limitierungen der gleichen: Voraussetzung für den Wirkungsbereich einer Maschine sei demnach, dass Menschen in der Lage sein müssen, ihr die Verarbeitungsschritte verständlich zu machen. Und allein über den letzten Satz des folgenden Zitates ließe sich wohl stundenlang diskutieren:
 
@@ -96,7 +96,7 @@ Zu guter Letzt: Die Kurzfassung meiner Hommage an Ada - sie war ihrer Zeit weit,
 
 **Quellen:**
 
-- [Ada Lovelace: Erfinderin des ersten Computerprogramms](https://www.geo.de/wissen/23430-rtkl-mathematik-computer-pionierin-ada-lovelace-die-frau-die-aus-der-zukunft-kam) 
+- [Ada Lovelace: Erfinderin des ersten Computerprogramms](https://www.geo.de/wissen/23430-rtkl-mathematik-computer-pionierin-ada-lovelace-die-frau-die-aus-der-zukunft-kam)
 - [T](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world)[he Women Who Changed The Tech World post written by Amelia Whyman](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world)
 - [Zehn Wissenschaftlerinnen, die Sie kennen sollten](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world)
 - [Ada Lovelace und das erste Computerprogramm der Welt](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world)
@@ -104,8 +104,8 @@ Zu guter Letzt: Die Kurzfassung meiner Hommage an Ada - sie war ihrer Zeit weit,
 - [Ada Lovelace: The Original Woman in Tech | Zoe Philpott | TEDxBucharest](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world)
 - [Ada Lovelace: The First Computer Programmer](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world)
 - [https://mindmatters.ai/2020/05/lovelace-the-programmer-who-spooked-alan-turing/](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world)
-- [Geschichte des Computers: Großrechner - Computer und Roboter - Technik](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world) 
-- [Wikipedia: Ada Lovelace](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world) 
+- [Geschichte des Computers: Großrechner - Computer und Roboter - Technik](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world)
+- [Wikipedia: Ada Lovelace](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world)
 - [Wikipedia: Charles Babbage](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world)
 - [Wikipedia: George Gordon Byron](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world)
 - [Wikipedia: Lady Byron](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world)
@@ -115,9 +115,9 @@ Zu guter Letzt: Die Kurzfassung meiner Hommage an Ada - sie war ihrer Zeit weit,
 
 - [https://www.globalapptesting.com/hs-fs/hubfs/The-Women-Who-Changed-The-Tech-World.png](https://www.globalapptesting.com/hs-fs/hubfs/The-Women-Who-Changed-The-Tech-World.png?width=2400&name=The-Women-Who-Changed-The-Tech-World.png)
 - [https://www.fu-berlin.de/presse/publikationen/tsp/2015/tsp-juli-2015/forschung/ada-lovelace/ada-locelace.jpg](https://www.globalapptesting.com/hs-fs/hubfs/The-Women-Who-Changed-The-Tech-World.png?width=2400&name=The-Women-Who-Changed-The-Tech-World.png)
-- [https://de.wikiquote.org/wiki/George\_Gordon\_Byron#/media/Datei:Lord\_Byron\_coloured\_drawing.png](https://www.globalapptesting.com/hs-fs/hubfs/The-Women-Who-Changed-The-Tech-World.png?width=2400&name=The-Women-Who-Changed-The-Tech-World.png)
-- [https://en.wikipedia.org/wiki/Lady\_Byron#/media/File:Annabella\_Byron\_(1792-1860).jpg](https://www.globalapptesting.com/hs-fs/hubfs/The-Women-Who-Changed-The-Tech-World.png?width=2400&name=The-Women-Who-Changed-The-Tech-World.png)
-- [https://de.wikipedia.org/wiki/Augustus\_De\_Morgan#/media/Datei:De\_Morgan\_Augustus.jpg](https://www.globalapptesting.com/hs-fs/hubfs/The-Women-Who-Changed-The-Tech-World.png?width=2400&name=The-Women-Who-Changed-The-Tech-World.png)
-- [https://upload.wikimedia.org/wikipedia/commons/c/cf/Diagram\_for\_the\_computation\_of\_Bernoulli\_numbers.jpg](https://www.globalapptesting.com/hs-fs/hubfs/The-Women-Who-Changed-The-Tech-World.png?width=2400&name=The-Women-Who-Changed-The-Tech-World.png)
+- [https://de.wikiquote.org/wiki/George_Gordon_Byron#/media/Datei:Lord_Byron_coloured_drawing.png](https://www.globalapptesting.com/hs-fs/hubfs/The-Women-Who-Changed-The-Tech-World.png?width=2400&name=The-Women-Who-Changed-The-Tech-World.png)
+- [https://en.wikipedia.org/wiki/Lady_Byron#/media/File:Annabella_Byron\_(1792-1860).jpg](https://www.globalapptesting.com/hs-fs/hubfs/The-Women-Who-Changed-The-Tech-World.png?width=2400&name=The-Women-Who-Changed-The-Tech-World.png)
+- [https://de.wikipedia.org/wiki/Augustus_De_Morgan#/media/Datei:De_Morgan_Augustus.jpg](https://www.globalapptesting.com/hs-fs/hubfs/The-Women-Who-Changed-The-Tech-World.png?width=2400&name=The-Women-Who-Changed-The-Tech-World.png)
+- [https://upload.wikimedia.org/wikipedia/commons/c/cf/Diagram_for_the_computation_of_Bernoulli_numbers.jpg](https://www.globalapptesting.com/hs-fs/hubfs/The-Women-Who-Changed-The-Tech-World.png?width=2400&name=The-Women-Who-Changed-The-Tech-World.png)
 - [https://www.alamy.de/stockfoto-augusta-ada-king-countess-of-lovelace-10-dezember-1815-27-november-1852-augusta-ada-byron-geboren-und-jetzt-allgemein-bekannt-als-ada-lovelace-war-ein-englischer-mathematiker-und-schriftsteller-sie-war-die-einzige-legitime-kind-des-dichters-lord-byron-und-seine-frau-a-103996874.html](https://www.globalapptesting.com/hs-fs/hubfs/The-Women-Who-Changed-The-Tech-World.png?width=2400&name=The-Women-Who-Changed-The-Tech-World.png)
-- [https://de.wikipedia.org/wiki/Alan\_Turing#/media/Datei:Alan\_Turing\_az\_1930-as\_%C3%A9vekben.jpg](https://www.globalapptesting.com/hs-fs/hubfs/The-Women-Who-Changed-The-Tech-World.png?width=2400&name=The-Women-Who-Changed-The-Tech-World.png)
+- [https://de.wikipedia.org/wiki/Alan_Turing#/media/Datei:Alan_Turing_az_1930-as\_%C3%A9vekben.jpg](https://www.globalapptesting.com/hs-fs/hubfs/The-Women-Who-Changed-The-Tech-World.png?width=2400&name=The-Women-Who-Changed-The-Tech-World.png)

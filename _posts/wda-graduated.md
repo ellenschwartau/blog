@@ -1,9 +1,9 @@
 ---
 title: "Women Developer Academy - Graduated!"
 date: "2022-03-06"
-categories: 
+categories:
   - "women-in-tech"
-tags: 
+tags:
   - "google"
   - "it"
   - "learn"
@@ -14,6 +14,7 @@ coverImage: "/assets/blog/wda-graduated/wda-europe.png"
 author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
+url: "/posts/community/wda/graduated"
 ---
 
 Vier Wochen gingen rum wie im Flug. Es waren lange Tage, aber es hat sich gelohnt. Wie die Live Speaking Practice lief und was mein Fazit zu dem Programm ist? Das liest du weiter unten!

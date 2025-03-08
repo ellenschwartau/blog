@@ -1,13 +1,14 @@
 ---
 title: "Amazing Grace"
 date: "2022-01-28"
-categories: 
+categories:
   - "it"
   - "women-in-tech"
 author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
 excerpt: "Grace Murray Hopper hat nicht nur dem Begriff des Bugs beim Programmieren zu Berühmtheit verholfen sondern sich als Informatikerin unter anderem für die Verwendung allgemeiner Sprache in der Entwicklung eingesetzt und so das Programmieren für viele erst zugänglich gemacht."
+url: "/posts/women-in-tech/grace-hopper"
 ---
 
 _Verfasst als [Techsnack des Orbit Technology Blogs](https://techsnack.orbitdigital.de/posts/amazing-grace)_
@@ -119,14 +120,14 @@ Screenshot Amazon Book "Understanding Computers"
 
 ## Quellen
 
-- [The Women Who Changed The Tech World post written by Amelia Whyman](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world) 
+- [The Women Who Changed The Tech World post written by Amelia Whyman](https://www.globalapptesting.com/blog/the-women-who-changed-the-tech-world)
 - [Biography of Grace Murray Hopper | Office of the President](https://president.yale.edu/biography-grace-murray-hopper)
-- [Grace Hopper - The Mother of Cobol](https://www.i-programmer.info/history/people/294-the-mother-of-cobol.html)  
+- [Grace Hopper - The Mother of Cobol](https://www.i-programmer.info/history/people/294-the-mother-of-cobol.html)
 - [Das ist alles, was sie: Grace Hopper - von der Marine bis zu Compilern. Grace Murray Hopper - programmierende Oma](https://ik-ptz.ru/de/russkijj-yazyk/eto-vse-ona-greis-hopper-ot-vms-do-kompilyatorov-greis-myurrei-hopper--.html)
-- [Cyber Heroes of the past: "Amazing Grace" Hopper](http://wvegter.hivemind.net/abacus/CyberHeroes/Hopper.htm) 
+- [Cyber Heroes of the past: "Amazing Grace" Hopper](http://wvegter.hivemind.net/abacus/CyberHeroes/Hopper.htm)
 - [Grace Hopper: Legends and Lies](https://www.youtube.com/watch?v=fjx49LtuSFY)
-- [Video: Zeitreise: Grace Hopper - Morgenmagazin - ARD | Das Erste](https://www.daserste.de/information/politik-weltgeschehen/morgenmagazin/berichte-und-interviews/Zeitreise_Grace_Hopper-102.html) 
+- [Video: Zeitreise: Grace Hopper - Morgenmagazin - ARD | Das Erste](https://www.daserste.de/information/politik-weltgeschehen/morgenmagazin/berichte-und-interviews/Zeitreise_Grace_Hopper-102.html)
 - [Grace Hopper – Wikipedia](https://de.wikipedia.org/wiki/Grace_Hopper)
-- [United States Navy – Wikipedia](https://de.wikipedia.org/wiki/United_States_Navy#Dienstgrade) 
+- [United States Navy – Wikipedia](https://de.wikipedia.org/wiki/United_States_Navy#Dienstgrade)
 - [Wer hat den Mark I Computer erfunden?](https://www.greelane.com/geisteswissenschaften/geschichte--kultur/howard-aiken-and-grace-hopper-4078389/)
 - [Data Visualizations of Full-Time Women Faculty and Faculty of Color](https://www.aaup.org/data-visualizations-full-time-women-faculty-and-faculty-color)

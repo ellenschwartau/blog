@@ -1,13 +1,14 @@
 ---
 title: "Microservices, aber gut?"
 date: "2021-10-10"
-categories: 
+categories:
   - "microservices"
   - "software-architecture"
   - "technology"
 author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
+url: "/posts/architecture/microservices"
 ---
 
 _Verfasst als [Techsnack des Orbit Technology Blogs](https://techsnack.orbitdigital.de/posts/love-to-ada-locelace)_
@@ -120,5 +121,5 @@ Werden obige Punkte bei der Einleitung einer verteilten Architektur berücksicht
 
 - [Building Microservices - Designing fine-grained Systems (Sam Newman)](https://www.amazon.de/Building-Microservices-Sam-Newman/dp/1491950358)
 - [Microservices - Grundlagen flexibler Softwarearchitekturen (Eberhard Wolff)](https://www.amazon.de/Microservices-Grundlagen-Softwarearchitekturen-Eberhard-Wolff/dp/3864903130)
-- [Microservices (Martin Fowler)](https://martinfowler.com/articles/microservices.html) 
+- [Microservices (Martin Fowler)](https://martinfowler.com/articles/microservices.html)
 - [Don't start with a monolith](https://martinfowler.com/articles/dont-start-monolith.html)

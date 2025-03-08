@@ -1,7 +1,7 @@
 ---
 title: "No-brainers to spice-up your communication"
 date: "2023-01-06"
-categories: 
+categories:
   - "career"
   - "communication"
   - "softskills"
@@ -10,6 +10,7 @@ author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
 excerpt: "The way you communicate is key to convey your thoughts and be heard. By applying these tips you can improve your communication in (almost) no time. Curious?"
+url: "/posts/spicy-communication"
 ---
 
 _Originally created as part of the [Tech Snack blog provided by Orbit](https://techsnack.orbitdigital.de/team-members/ellen-schwartau)._
@@ -19,11 +20,11 @@ I am confident that we all remember a presentation that was interesting topic wi
 The following tips are easy to adapt in your day to day work, especially when being in a virtual call. Before you read, perform this quick exercise to measure their impact directly:
 
 > _Record a quick video of yourself answering the following questions:_
-> 
+>
 > \- _Who are you and what’s your profession?_  
 > \- _What does your normal day look like?_  
 > \- _What is a topic you are passionate about?_
-> 
+>
 > **EXERCISE TO MEASURE THE DIFFERENCES THESE SMALL ADAPTIONS ACTUALLY MAKE**
 
 My communication training at [Pitch Ninjas](https://pitchingninja.com/) started off with this video. I had to watch my own recording again, first without and then with audio, answering the questions “Do I believe the person?” and “Does anything surprise me?”. Some aspects actually took me by surprise about my mimic when watching it without sound, so definitely worth the exercise.
@@ -61,13 +62,13 @@ Once your setup is complete, you can make your talk more engaging by involving y
 The tips described so far are pretty easy to adapt. Of course your content relies heavily on **_what_** you say and more importantly **_how_** you say it. Starting with being aware of your pace, e.g. by actively using pauses, followed by storytelling and the usage of metaphors. There are different frameworks for structuring what to say upfront, e.g. the _“Problem, Solution, Benefit”_\-model or the _“Think, Feel, Do”_\-framework. You may want to give them a read to leverage your communication further.
 
 > _The advantage of the tips mentioned above is the ability to implement them without any further ado. Take your time and retake the video, keeping them in mind:_
-> 
+>
 > \- _Be aware of your position and posture_  
 > \- _Take care of good lighting_  
 > \- _Have a non-disturbing background_  
 > \- _Make eye contact  
 > \- Use hand gestures whilst speaking_
-> 
+>
 > **SUMMARY OF NO-BRAINERS TO IMPROVE YOUR COMMUNICATION IN (ALMOST) NO TIME**
 
 Now, compare it with the video you took upfront. What do you think?

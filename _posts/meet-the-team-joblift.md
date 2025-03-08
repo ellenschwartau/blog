@@ -1,6 +1,6 @@
 ---
 title: "Meet the Team: Ellen, Software Developer at Joblift"
-categories: 
+categories:
   - "women-in-tech"
 excerpt: "Meet Ellen, a developer and one of the “oldest” Joblifters – she has been part of the company since (almost) the very beginning and supports the tech team in Hamburg."
 date: "2018-07-26T13:51:07.322Z"
@@ -9,6 +9,7 @@ author:
   picture: "/assets/blog/authors/ellen.png"
 ogImage:
   url: "/assets/blog/meet-the-team/hero.png"
+url: "/posts/joblift/meet-the-team"
 ---
 
 _This post was originally published as part of the [Joblift Blog](https://joblift.co.uk/career-insider/meet-the-team-joblift-developer/)._
@@ -29,7 +30,7 @@ Meet the Team: Ellen, Software Developer at Joblift
 
 ### What is your job title and how long have you worked at Joblift?
 
-I’m a Software Developer and started in December 2015 as a working student. After finishing my Master’s thesis in cooperation with Joblift, I joined full-time in October 2016. So, it’s been almost three years now, which is a pretty long time for a startup employee. In fact, my boss once called me a “Joblift dinosaur”. 
+I’m a Software Developer and started in December 2015 as a working student. After finishing my Master’s thesis in cooperation with Joblift, I joined full-time in October 2016. So, it’s been almost three years now, which is a pretty long time for a startup employee. In fact, my boss once called me a “Joblift dinosaur”.
 
 ### What is the most challenging part of your job?
 
@@ -41,7 +42,7 @@ Besides that, we (as a company) are facing the typical challenges of a growing s
 
 ### What gets you out of bed in the morning?
 
-A hot cup of coffee!  Or two. 
+A hot cup of coffee!  Or two.
 
 ### What did you want to be when you were a child and to what extent does your position at Joblift match this idea?
 

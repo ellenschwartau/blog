@@ -1,9 +1,9 @@
 ---
 title: "10 Tipps für erfolgreiche Gehaltsverhandlungen"
 date: "2022-03-08"
-categories: 
+categories:
   - "career"
-tags: 
+tags:
   - "negotiation"
   - "tipps"
 author:
@@ -11,6 +11,7 @@ author:
   picture: "/assets/blog/authors/ellen.png"
 coverImage: "/assets/blog/tipps-gehaltsverhandlungen/10-take-aways-gehalt.png"
 excerpt: "Wer stand noch nicht vor der Herausforderung, Gehaltsforderungen fundiert zu äußern? Ich persönlich fühle mich dabei immer unwohl. Vom Warten allein wird aber nichts passieren. Hier sind 10 Tipps, die Erfolg versprechen."
+url: "/posts/general/negortiation-tipps"
 ---
 
 Wer stand noch nicht vor der Herausforderung, Gehaltsforderungen fundiert zu äußern? Ich persönlich fühle mich dabei immer unwohl. Vom Warten allein wird aber nichts passieren. Gehaltsverhandlungen sind also ein notwendiges Übel.
@@ -29,23 +30,23 @@ Nachdem Anne-Kathrin Gerstlauer in einem Gastbeitrag bei Tomorrow fünf Tipps f�
 - ![](https://ellenschwartau.files.wordpress.com/2022/03/92701d08-da72-4975-93ab-12bde680ec7a.jpg?w=750)
 
 1. **Kenne deinen Wert**  
-    Ein Anlaufpunkt könnten Gehaltsbänder in ausgeschriebenen Stellen oder Kununu sein. Auch dein Netzwerk kannst du nach Gehältern ähnlicher Positionen fragen. Oder du antwortest mal auf eine Headhunter-Anfrage und fragst geschickt nach dem möglichen Gehalt.
+   Ein Anlaufpunkt könnten Gehaltsbänder in ausgeschriebenen Stellen oder Kununu sein. Auch dein Netzwerk kannst du nach Gehältern ähnlicher Positionen fragen. Oder du antwortest mal auf eine Headhunter-Anfrage und fragst geschickt nach dem möglichen Gehalt.
 2. **Kenne deine Erfolge**  
-    Führe unabhängig von Gehaltsverhandlungen eine Liste deiner Fortschritte. Hast du Projekte erfolgreich abgeschlossen? In welchen Bereichen hast du dich verbessert? Wo verbesserst du das Unternehmen, mit dem was du mitbringst?
+   Führe unabhängig von Gehaltsverhandlungen eine Liste deiner Fortschritte. Hast du Projekte erfolgreich abgeschlossen? In welchen Bereichen hast du dich verbessert? Wo verbesserst du das Unternehmen, mit dem was du mitbringst?
 3. **Sei vorbereitet: Übung macht den Meister**  
-    Du solltest nichts auswendig lernen, aber Gespräche vorher zu üben und deine Forderungen laut durchzugehen, wird helfen sie tatsächlich auszusprechen. Lass dir von Freunden auch ein paar kritische Fragen stellen.
+   Du solltest nichts auswendig lernen, aber Gespräche vorher zu üben und deine Forderungen laut durchzugehen, wird helfen sie tatsächlich auszusprechen. Lass dir von Freunden auch ein paar kritische Fragen stellen.
 4. **Check-in mit dir selbst**  
-    Was möchtest du überhaupt? Fühlst du dich ungerecht bezahlt? Wünscht du dir mehr Sichtbarkeit oder Wertschätzung? Woran fehlt es dir? Wenn du dir über dein eigentliches Anliegen im klaren bist, wird es leichter dieses auch zu formulieren.
+   Was möchtest du überhaupt? Fühlst du dich ungerecht bezahlt? Wünscht du dir mehr Sichtbarkeit oder Wertschätzung? Woran fehlt es dir? Wenn du dir über dein eigentliches Anliegen im klaren bist, wird es leichter dieses auch zu formulieren.
 5. **Baue eine gute Beziehung auf**  
-    Die Gehaltsverhandlung sollte wenn möglich nicht der einzige Kontaktpunkt zu deinem gegenüber sein. Nutze z.B. ein Lunch für ungezwungenen Austausch oder betreibe Smalltalk zu Beginn des Termins.
+   Die Gehaltsverhandlung sollte wenn möglich nicht der einzige Kontaktpunkt zu deinem gegenüber sein. Nutze z.B. ein Lunch für ungezwungenen Austausch oder betreibe Smalltalk zu Beginn des Termins.
 6. **Schaffe ein Setup, in dem du dich wohl fühlst**  
-    Hier helfen schon Kleinigkeiten: Sitz aufrecht und lege die Hände auf dem Tisch ab, um dich zu stabilisieren. Gehe vor dem Termin nochmal fünf Minuten an die frische Luft und atme tief durch. Mach dir bewusst, dass du gut vorbereitet bist.
+   Hier helfen schon Kleinigkeiten: Sitz aufrecht und lege die Hände auf dem Tisch ab, um dich zu stabilisieren. Gehe vor dem Termin nochmal fünf Minuten an die frische Luft und atme tief durch. Mach dir bewusst, dass du gut vorbereitet bist.
 7. **Sei offen für Kompromisse**  
-    Gehälter können aus verschiedenen Gründen manchmal nicht durchgesetzt werden. Vergrößere deine Verhandlungsmasse: Sind weniger Stunden, mehr Urlaubstage oder eine Fortbildung Optionen für dich?
+   Gehälter können aus verschiedenen Gründen manchmal nicht durchgesetzt werden. Vergrößere deine Verhandlungsmasse: Sind weniger Stunden, mehr Urlaubstage oder eine Fortbildung Optionen für dich?
 8. **Zieh es durch**  
-    Lass dich nicht von deinem Plan abbringen. Um sicherzugehen, kannst du deine Stichpunkte ein paar Minuten vor dem Termin als E-Mail oder über Slack rausschicken - dann kommen sie auf jeden Fall zur Sprache.
+   Lass dich nicht von deinem Plan abbringen. Um sicherzugehen, kannst du deine Stichpunkte ein paar Minuten vor dem Termin als E-Mail oder über Slack rausschicken - dann kommen sie auf jeden Fall zur Sprache.
 9. **Mit Misserfolgen umgehen**  
-    Lass den Frust für einen Moment zu, aber versteife dich nicht darauf. Was wurde die in dem Gespräch mit auf den Weg gegeben? Gibt es Entwicklungspotenziale? Wenn das zu kurz kam, bitte um einen Folgetermin.
+   Lass den Frust für einen Moment zu, aber versteife dich nicht darauf. Was wurde die in dem Gespräch mit auf den Weg gegeben? Gibt es Entwicklungspotenziale? Wenn das zu kurz kam, bitte um einen Folgetermin.
 10. **Steh für dich ein**  
     Nach dem ersten Nein musst du nicht direkt die Kündigung einreichen. Aber sollte klar werden, dass kein beidseitiges Interesse darin besteht, sich zu entwickeln, kann ein Berufswechsel der bessere Weg sein.
 

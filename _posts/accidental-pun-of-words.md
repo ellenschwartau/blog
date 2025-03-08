@@ -1,7 +1,7 @@
 ---
 title: "Accidental pun of words with git commands"
 date: "2022-01-28"
-categories: 
+categories:
   - "git"
   - "programming"
   - "software-development"
@@ -10,6 +10,7 @@ author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
 excerpt: "I love pun of words. Especially the bad ones. In my day to day life I use git as version control and find myself laughing about some of my typos. I started collecting the ones that made me giggle. By chance it is your taste of humor."
+url: "/posts/git/puns"
 ---
 
 I love pun of words. Especially the bad ones. In my day to day life I use **git** as version control and find myself laughing at some of my **typos**. I started collecting the ones that **made me giggle**. By chance it is your taste of humor. Enjoy 🤓

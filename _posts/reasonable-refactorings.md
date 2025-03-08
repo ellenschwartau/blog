@@ -1,11 +1,11 @@
 ---
 title: "Reasonable Refactorings"
 date: "2022-04-16"
-categories: 
+categories:
   - "coding"
   - "en"
   - "software-development"
-tags: 
+tags:
   - "clean-code"
   - "it"
   - "refactoring"
@@ -14,6 +14,7 @@ author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
 excerpt: "It was tough to be told “Don’t refactor just to refactor” since I love clean, maintainable, and high-quality code. By now, I found ways to make space for refactorings in my day-to-day work. So, what are the cues to refactor code regularly, but in a reasonable way?"
+url: "/posts/clean-code/reasonable-refactorings"
 ---
 
 _My personal challenge for this post: No googling whilst creating this talk,_  

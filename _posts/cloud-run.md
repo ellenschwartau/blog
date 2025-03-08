@@ -1,14 +1,15 @@
 ---
 title: "Tech x Orbit Meetup #0001: Cloud Run with Doreen Sacker"
 date: "2023-05-10"
-categories: 
+categories:
   - "software-development"
-tags: 
+tags:
   - "cloud"
 coverImage: "/assets/blog/cloud-run/image-4.png"
 author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
+url: "/posts/cluud/cloud-run"
 ---
 
 Our first own Tech Meetup at Orbit is dedicated to 🥁 CLOUD 🥁 We have invited an exciting speaker for you: Doreen Sacker, Senior Data Scientist at Opinary! She talked about how they increased the performance of their recommendations enormously by moving to Cloud Run.
@@ -19,7 +20,7 @@ Opinary places surveys in online articles and needs to generate recommendations 
 
 **What’s Cloud Run?**
 
-Cloud Run is Google's serverless solution: Instead of having software running all the time, just waiting there for incoming requests, burning money, you spring them up on demand. Sounds like a plan to reduce cost. But at the first attempt, Opinary was burning even more money. How though? 
+Cloud Run is Google's serverless solution: Instead of having software running all the time, just waiting there for incoming requests, burning money, you spring them up on demand. Sounds like a plan to reduce cost. But at the first attempt, Opinary was burning even more money. How though?
 
 **Key takeaway: Beware of waiting times**
 

@@ -1,9 +1,9 @@
 ---
 title: "Women Developer Academy - Woche 2"
 date: "2022-02-19"
-categories: 
+categories:
   - "women-in-tech"
-tags: 
+tags:
   - "it"
   - "learn"
   - "wda"
@@ -13,6 +13,7 @@ author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
 excerpt: "Es ist Halbzeit. Diese Woche habe ich in Bezug auf meine Public Speaking Skills einiges mitnehmen können."
+url: "/posts/community/wda/week-2"
 ---
 
 Es ist Halbzeit. Diese Woche habe ich in Bezug auf meine Public Speaking Skills einiges mitnehmen können. Außerdem gab es das erste mal Hausaufgaben, die ich noch schuldig bin 🤯
@@ -56,7 +57,7 @@ Unerwarteter Weise hat mich diese Session umgehauen. Im Workshop Format hat uns 
 - Die einfachsten **Methodiken** sind meist die besten. Aber mögliche Titel für Präsentationen sind regelrecht aus mir herausgesprudelt. Ins Detail werde ich in späteren Blogposts gehen.
 - Ebenso wichtig wie der eigentliche Inhalt deiner Präsentation ist das **Event** auf dem du sie hältst genauso wie die **Audience**. Fragen zur Ausrichtung der Konferenz, anderen Speakern in deinem Track und das Level deiner Hörerschaft solltest du klären, und deinen Vortrag darauf Ausrichten.
 - Die **Frage & Antwort Runde** nach dem eigentlichen Vortrag hatte mal wieder wertvolle Insights. Ich hatte die Gelegenheit, ein Thema anzusprechen, das mich sehr beschäftigt: Was tun, gegen dieses kleine Vögelchen, das sagt "Ich stehe nur auf dieser Bühne, weil ich eine Frau bin". Gerade bei nicht gender neutralen Bewerbungen auf Speakerslots bleibe ich an diesem Gedanken hängen. Objektiv verfolge ich zwar das höhere Ziel, durch meine Präsenz Frauen in der IT mehr Sichtbarkeit zu verleihen. Und subjektiv möchte ich aber trotzdem keinen Slot aufgrund meiner Zugehörigkeit zu einer Minderheit bekommen, sondern weil das Thema interessant ist.  
-    Es gab keine Antwort, die diese Stimme zum Schweigen bringen könnte, aber viel wichtiger: Ich bin ganz und gar nicht allein mit diesem Gedanken. Und noch viel wichtiger: Wir machen es trotzdem.
+   Es gab keine Antwort, die diese Stimme zum Schweigen bringen könnte, aber viel wichtiger: Ich bin ganz und gar nicht allein mit diesem Gedanken. Und noch viel wichtiger: Wir machen es trotzdem.
 
 ##### Donnerstag, 17.02.2022
 
@@ -72,8 +73,8 @@ Auch hier wurde nochmal das Storytelling aus Woche 1 aufgegriffen, aber gemünzt
 
 - _**Zoom out, zoom in, zoom out**_: Erschaffe einen Kontext, z.B. in Form einer Softwarearchitektur, um einen Überblick zu geben. Steige erst im Anschluss tief in ein Problem ein, indem du möglicherweise Code zeigst. Werfe dann aber wieder einen Blick von weiter oben, um auch diejenigen wieder einzufangen, die du auf dem Weg eventuell verloren hast.
 - Bereite dich für das schlimmste vor, dann kann dich nichts aus dem Konzept bringen.  
-    **Du hast eine Live-Demo?** Dann mach lieber ein Video, [**damit du nicht so dastehst wie Steve Jobs.**](https://www.youtube.com/watch?v=znxQOPFg2mo) Hat zwar einen geringeren Coolness-Faktor, bietet aber neben der Sicherheit, dass es bereits geklappt hat einen weiteren Vorteil: Du bei langsamen Abfragen von doppelter Wiedergabegeschwindigkeit profitieren.  
-    **Wenn du trotzdem nicht auf den Nervenkitzel einer Live-Demo verzichten willst:** Bereite die Schritte, die du durchgehen möchtest im Detail vor. Öffne zum Beispiel im Editor vorab den Code den du zeigen willst oder bereite Skripte vor, die du ausführen möchtest. Ich füge meistens in versteckten Folien Screenshots von Ergebnissen hinzu, die ich einblenden kann, sollte etwas schief gehen. Selbst wenn der Fall nicht eintritt, der Backup-Plan gibt mir Sicherheit.
+   **Du hast eine Live-Demo?** Dann mach lieber ein Video, [**damit du nicht so dastehst wie Steve Jobs.**](https://www.youtube.com/watch?v=znxQOPFg2mo) Hat zwar einen geringeren Coolness-Faktor, bietet aber neben der Sicherheit, dass es bereits geklappt hat einen weiteren Vorteil: Du bei langsamen Abfragen von doppelter Wiedergabegeschwindigkeit profitieren.  
+   **Wenn du trotzdem nicht auf den Nervenkitzel einer Live-Demo verzichten willst:** Bereite die Schritte, die du durchgehen möchtest im Detail vor. Öffne zum Beispiel im Editor vorab den Code den du zeigen willst oder bereite Skripte vor, die du ausführen möchtest. Ich füge meistens in versteckten Folien Screenshots von Ergebnissen hinzu, die ich einblenden kann, sollte etwas schief gehen. Selbst wenn der Fall nicht eintritt, der Backup-Plan gibt mir Sicherheit.
 - In der Kürze liegt die Würze, aber ein einziges Schlagwort sagt manchmal gar nichts aus, wenn es **Buzzword**\-Charakter hat. Stattdessen kannst du lieber drei beschreibende, aber nicht so häufig verwendete Worte nutzen. Statt dem großen Wort _Innovation_ transportiert ein kurzer Satz wie "re-definiert, verbessert und neu" mehr Gehalt.
 
 ## Zwischenfazit

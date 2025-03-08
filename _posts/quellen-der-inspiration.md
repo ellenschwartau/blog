@@ -1,7 +1,7 @@
 ---
 title: "Tech Quickie: Quellen der Inspiration"
 date: "2021-05-13"
-categories: 
+categories:
   - "coding"
   - "learning"
   - "recommendations"
@@ -9,6 +9,7 @@ categories:
 author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
+url: "/posts/quellen-der-instiration"
 ---
 
 Ab und an werde ich gefragt, welche Ressourcen ich nutze, um in der Welt der IT am Zahn der Zeit zu bleiben oder Wissen zu vertiefen. Ich muss dich enttäuschen: Es gibt keine ultimative Single Source Of Truth, die dir als allgemeingültige Superquelle alle nötigen Updates gibt. Dazu ist der Bereich Tech viel zu groß und schnelllebig. Aber es gibt glücklicherweise eine große, Wissenstransfer verliebte Community.
@@ -58,7 +59,7 @@ Ich habe selbst einen anderen Hintergrund, aber folgende Akademien bieten Kurse 
 
 - **Meetups!** Direkter Austausch und Diskurs ist wichtig. Die Plattform [meetup.com](https://www.meetup.com/) bietet dir Zugang zu zahlreichen kostenlosen Events. Du kannst sogar selbst Vorträge zu Themen halten, die du mit anderen teilen möchtest. Und: Bei technischen Themen gibt es meisten sogar freie Limo und Snacks. Dabei lässt sich auch sehr gut netzwerken.
 - **Fachbücher**. Gerade wenn du dich gezielt mit einem Thema auseinandersetzen möchtest, ist das nach wie vor eine hervorragende Quelle. Zuletzt habe ich die _"Clean XY"_\-Reihe von _Uncle Bob_ gelesen (genauer gesagt: Clean Code, Clean Architecture, Clean Coder).
-- Ansonsten folge ich tatsächlich einfach auf **Instagram** so einigen spannenden Accounts (z.B. _[t3n\_magazine](https://www.instagram.com/t3n_magazin/)_ oder [_the\_female\_lead_](https://www.instagram.com/the_female_lead/))
+- Ansonsten folge ich tatsächlich einfach auf **Instagram** so einigen spannenden Accounts (z.B. _[t3n_magazine](https://www.instagram.com/t3n_magazin/)_ oder [_the_female_lead_](https://www.instagram.com/the_female_lead/))
 
 **Kleiner Tip**, falls du gerade versuchst dich zu orientieren und deinen Pool an Wissensquellen zusammenzustellen: Tausend Dinge zu abonnieren und dann keine zu Lesen ist nicht der heilige Gral. Nimm dir lieber die Zeit Stück für Stück herauszufinden, was für dich funktioniert.
 

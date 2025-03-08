@@ -1,13 +1,14 @@
 ---
 title: "The Good Parts of Being a Woman in Tech"
 date: "2021-03-05"
-categories: 
+categories:
   - "diversity"
   - "women-in-tech"
 author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
 excerpt: "The disadvantages women face at work are numerous and not only based on biological facts, like the temporal pause during and after pregnancy. Even if IT is a very open-minded industry and negative aspects therefore aren't as prominent, they still appear. That's not necessary. For a change we want to look at what advantages there are, since these exist as well!"
+url: "/posts/women-in-tech/the-good"
 ---
 
 _This post was originally published as part of [Tech Snack Blog provided by Orbit Digital.](https://techsnack.orbitdigital.de/posts/the-good-parts-of-being-a-woman-in-tech)  
@@ -61,7 +62,7 @@ I tend to talk quite verbose, see the most important aspects summarised below:
 - As an orchid amongst all the flowers you are remembered, potential barriers for job interviews are lowered and job offerings are more like a rule than the exception.
 - Often there are reductions for attending conferences and it's easier to obtain speaking opportunities.
 - Your gender offers an alliance:  
-    Welded together by the feeling of belonging together, you benefit from supporting each other and help can be found where help is needed.
+   Welded together by the feeling of belonging together, you benefit from supporting each other and help can be found where help is needed.
 - We can change things because there is a lot to change; small actions and steps may even change the world.
 - The environment builds fortitude, encourages quick-wittedness and develops the courage to tackle challenges.
 

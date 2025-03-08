@@ -1,16 +1,17 @@
 ---
 title: "Mentor Successfully"
 date: "2022-11-29"
-categories: 
+categories:
   - "career"
   - "learning"
-tags: 
+tags:
   - "mentoring"
 coverImage: "/assets/blog/mentor-successfully/image-10.png"
 author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
 excerpt: "Being a Mentee is a wonderful experience if your Mentor is actively listening to what you say, shares personal experience and provides honest feedback. Someone, who doesn't tell you what to do, but helps you find the path yourself. Lots can go wrong in such a relationship. Achieving the overall goal of making the mentee figure out the answers highly depends on the questions you are using. Keep the following rules in mind when preparing the session."
+url: "/posts/mentoring/mentor-successfully"
 ---
 
 _Originally created as part of the [Tech Snack blog provided by Orbit](https://techsnack.orbitdigital.de/posts/mentor-successfully)._
@@ -18,7 +19,7 @@ _Originally created as part of the [Tech Snack blog provided by Orbit](https://t
 Being a Mentee is a wonderful experience if your Mentor is actively listening to what you say, shares personal experience and provides honest feedback. Someone, who doesn't tell you what to do, but helps you find the path yourself. Lots can go wrong in such a relationship, but it begins with having someone providing the opportunity to be mentored. This is where the [Google Mentor Development Program](https://rsvp.withgoogle.com/events/women-techmakers-women-mentorship-development-program) comes into place:
 
 > About the program
-> 
+>
 > **"The Women Techmakers Mentor Development Program is a 5-week virtual program designed to empower women in tech to pursue mentorship opportunities through in-depth mentorship coaching, experience, and direct mentorship opportunities. "**
 
 I was fortunate to take part in that program. Despite me being unable to grow a long, grey beard I say _"I am a Mentor"_ with confidence now. I want to share the main aspects I apply to my mentoring sessions that help make the sessions a success for both sides.
@@ -46,15 +47,15 @@ There are recurrent points which a mentoring session should contain. I use them 
 
 It is important to figure out what the **TOPIC** of the session is going to be. It helps me to prepare the resources I want to share and sets a direction for the session.
 
-* * *
+---
 
-__What's the agenda for today? Which area of your career would you like to talk about?__
+**What's the agenda for today? Which area of your career would you like to talk about?**
 
 ![](https://ellenschwartau.files.wordpress.com/2022/11/image-3.png?w=162)
 
 Everyone can have different **GOALS** for a specific area.
 
-* * *
+---
 
 _What do you want to achieve? How could you make this goal more specific? What would you do if you could not fail?_
 
@@ -62,7 +63,7 @@ _What do you want to achieve? How could you make this goal more specific? What w
 
 The goals can differ, depending on your experience on a specific topic. We need to figure out the place our mentee is currently at and do a **REALITY** check.
 
-* * *
+---
 
 _What's happening now? How do other people experience you in that area?_
 
@@ -70,7 +71,7 @@ _What's happening now? How do other people experience you in that area?_
 
 This area is an essential one: We want to find different **OPTIONS** for achieving the goals. It can contain actions you yourself took in the past or others who you know from your network.
 
-* * *
+---
 
 _What would be the most radical thing you could do? Have you ever tried an alternative approach?_
 
@@ -92,12 +93,12 @@ In addition, I'd like to suggest another step and extend it to a **TGROWF** fram
 
 Collect **FEEDBACK**. Mentoring is a two-sided relationship and you commit to making it a good experience for your mentee.
 
-* * *
+---
 
 _How satisfied are you with the findings of today's session?_ Is there anything you'd like me to do differently in the future?
 
 You'll be surprised of what you get in return.
 
 > Feel free to book a mentoring session with me using calendly:
-> 
+>
 > [Mentoring](https://ellenschwartau.com/mentoring/)

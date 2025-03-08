@@ -1,13 +1,14 @@
 ---
 title: "AI; Hyped and dreaded"
 date: "2023-04-16"
-categories: 
+categories:
   - "ai"
   - "coding"
   - "technology"
 author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
+url: "/posts/ai/hyped-and-dreaded"
 ---
 
 Is GPT-4 intelligent? According to [Sebastien Bubeck](https://www.linkedin.com/in/ACoAAC_2G2kB0D5D-x5k-fdgmpJAT55-R0D2uoM) the answer highly depends on your definition of intelligence. Just watched his talk where he shows if GPT-4 is intelligent according to his definition.
@@ -23,8 +24,6 @@ https://www.youtube.com/watch?v=qbIk7-JPB2c
 Recording of Sebastien Bubecks talks about "Sparks of AI"
 
 </figcaption>
-
-
 
 </figure>
 

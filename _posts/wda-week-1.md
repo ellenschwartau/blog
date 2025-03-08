@@ -1,9 +1,9 @@
 ---
 title: "Women Developer Academy - Woche 1"
 date: "2022-02-13"
-categories: 
+categories:
   - "women-in-tech"
-tags: 
+tags:
   - "learn"
   - "wda"
   - "women-developer-academy"
@@ -12,6 +12,7 @@ author:
   name: Ellen Schwartau
   picture: "/assets/blog/authors/ellen.png"
 excerpt: "Woche Numero Uno der Women Developer Academy Europe ist rum. Ich bin etwas geschafft von den langen Tagen, aber es hat sich gelohnt. Ich fasse für euch meine Eindrücke und Take Aways zusammen."
+url: "/posts/community/wda/week-1"
 ---
 
 **Woche Numero Uno ist rum.** Ich bin etwas geschafft von den langen Tagen, aber es hat sich gelohnt. Es wird kaum möglich sein, das ganze Programm in konsumierbarer Zeit wiederzugeben. Noch kann ich die echte Erfahrung ersetzen. Aber ich fasse für euch **meine Eindrücke und Take Aways** zusammen.
@@ -67,14 +68,14 @@ Und nun wie schon angekündigt zu [**Lara Martín, einer Google Developer Expert
 - Der Umstand der erneuten Bewertung des Expertenstatus jedes Jahr, hat mich persönlich etwas abgeschreckt. Warum auf etwas hinarbeiten, dass dir einfach wieder weggenommen werden kann? Laras Aussage dazu hat mich zum umdenken gebracht. Mit einer gesunden Einstellung, die für mich aus der Kurzweiligkeit des Status etwas Positives macht:[2](#fußnoten)
 
 > Lara Martín, Google Developer Expert Dart & Flutter
-> 
+>
 > _"It’s ok to loose the title. you are making space for others. And they eventually loose is as well."_[2](#fußnoten)
 
 - Neben dem Beruf zu veröffentlichen, kann stressig werden. Grenzen sind wichtig, ganz besonders bei Tätigkeiten, die man selbstbestimmt ausführt. Lara hat Retrospektiven mit ihrem Partner eingeführt, der ebenfalls Contributor ist. Gemeinsam betrachten sie dabei, was gut und schlecht gelaufen ist und leiten daraus Verbesserungen ab.
 - Und ein letztes Take Away, um kreativ ohne Zwang zu bleiben:
 
 > Lara Martín, Google Developer Expert Dart & Flutter
-> 
+>
 > "I am not going to force my mashine. It’s me. If you do it because you want to, people will see that.  
 > If you do it just to get a title or whatever, people will see that too. In the end you should have fun."[2](#fußnoten)
 
@@ -104,7 +105,7 @@ Alles in allem eine sehr aufregende Woche. Ich habe bisher nicht das Gefühl, ri
 
 Was ich auf jeden Fall unterschätzt habe: Der positive Effekt einer Community aus Gleichgesinnten. Ich bin es gewohnt, in einem männerdominierten Bereich unterwegs zu sein - Man gewöhnt sich an vieles. Im Kontrast dazu das Setting von Tech-Interessierten, bestehend ausschließlich aus Frauen. Das Ganze hatte eine Leichtigkeit, die mir bewusst gemacht hat: Sich als Frau in der heutigen IT zu behaupten, ist doch kräftezehrender, als ich mir eingestanden habe. Zeit das zu ändern.
 
-* * *
+---
 
 1 Stand 13.02.2022  
 2 Zitate aus der Erinnerung aufgeschrieben, exakter Wortlauf könnte abweichen (es geht um die Message)
