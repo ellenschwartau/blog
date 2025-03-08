@@ -1,3 +1,4 @@
+import { Citation } from "@/app/_components/citation";
 import { PostHeader } from "@/app/_components/post-header";
 
 export default function Post() {
@@ -44,14 +45,10 @@ export default function Post() {
           .
         </p>
 
-        <blockquote className="border-l-4 border-gray-300 pl-4 my-6 italic">
-          <strong>The OWASP® Foundation</strong> works to improve the security
-          of software through its community-led open source software projects,
-          hundreds of chapters worldwide, tens of thousands of members, and by
-          hosting local and global conferences.
-          <br />
-          <span className="text-sm">owasp.org</span>
-        </blockquote>
+        <Citation
+          citation="The OWASP® Foundation works to improve the security of software through its community-led open source software projects, hundreds of chapters worldwide, tens of thousands of members, and by hosting local and global conferences."
+          source="owasp.org"
+        />
 
         <h2 className="text-3xl font-bold mt-8 mb-4">OWASP Top 10</h2>
         <p>
@@ -79,47 +76,57 @@ export default function Post() {
               </tr>
             </thead>
             <tbody>
-              <tr>
-                <td className="border p-2">27</td>
-                <td className="border p-2">20</td>
-                <td className="border p-2">3</td>
-                <td className="border p-2">2018</td>
-                <td className="border p-2">Jane Doe</td>
-                <td className="border p-2">...</td>
-                <td className="border p-2">TaH</td>
-                <td className="border p-2">PHP</td>
-                <td className="border p-2">Global</td>
-                <td className="border p-2">Non-Technology</td>
-                <td className="border p-2">No</td>
-              </tr>
-              <tr>
-                <td className="border p-2">66</td>
-                <td className="border p-2">125</td>
-                <td className="border p-2">3</td>
-                <td className="border p-2">2020</td>
-                <td className="border p-2">Jane Doe</td>
-                <td className="border p-2">...</td>
-                <td className="border p-2">Tooling</td>
-                <td className="border p-2">C</td>
-                <td className="border p-2">North America</td>
-                <td className="border p-2">Technology</td>
-                <td className="border p-2">No</td>
-              </tr>
-              <tr>
-                <td className="border p-2">42</td>
-                <td className="border p-2">284</td>
-                <td className="border p-2">7</td>
-                <td className="border p-2">2020</td>
-                <td className="border p-2">Jane Doe</td>
-                <td className="border p-2">...</td>
-                <td className="border p-2">HaT</td>
-                <td className="border p-2">.NET</td>
-                <td className="border p-2">Europe</td>
-                <td className="border p-2">Retail</td>
-                <td className="border p-2">No</td>
-              </tr>
+              {[
+                [
+                  "27",
+                  "20",
+                  "3",
+                  "2018",
+                  "Jane Doe",
+                  "...",
+                  "TaH",
+                  "PHP",
+                  "Global",
+                  "Non-Technology",
+                  "No",
+                ],
+                [
+                  "66",
+                  "125",
+                  "3",
+                  "2020",
+                  "Jane Doe",
+                  "...",
+                  "Tooling",
+                  "C",
+                  "North America",
+                  "Technology",
+                  "No",
+                ],
+                [
+                  "42",
+                  "284",
+                  "7",
+                  "2020",
+                  "Jane Doe",
+                  "...",
+                  "HaT",
+                  ".NET",
+                  "Europe",
+                  "Retail",
+                  "No",
+                ],
+              ].map((row, r) => (
+                <tr key={`example-${r}`}>
+                  {row.map((cell, c) => (
+                    <td key={`example-${r}-value-${c}`} className="border p-2">
+                      {cell}
+                    </td>
+                  ))}
+                </tr>
+              ))}
             </tbody>
-            <caption>
+            <caption className="mt-2">
               Made up data based on the sample data submission files in the{" "}
               <a href="https://github.com/OWASP/Top10/tree/master/2021/Data">
                 OWASP Top 10 Github repo
